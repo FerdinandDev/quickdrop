@@ -1,9 +1,10 @@
 # QuickDrop
 
-A fast, modern delivery app landing page built as a frontend development practice project.
+A fast, modern delivery app landing page built as a frontend development portfolio project.
 
 ## 🚀 Live Demo
-Coming soon — hosted version link will go here once deployed.
+[View live site](https://ferdinanddev.github.io/quickdrop/)
+
 
 ## 🛠️ Built With
 - HTML5
